@@ -1,0 +1,30 @@
+# 演示数据与内部脚本绝不入仓
+demo-backups/
+demo-run/
+demo_run.sh
+*.bak-selftest/
+.greggy-selftest/
+
+# 公众号排版草稿是内部文件，不入公开仓（历史教训 b98132d）
+公众号排版版.html
+report.md
+screenshots草稿*
+*草稿*
+cover-draft*
+
+# 内部验证/清理脚本一律不入仓
+*_purge*.py
+*_verify*.py
+_final_verify.py
+gitee_public_verify.py
+verify_cdn.py
+selfcheck_article.py
+publish-both.sh
+make_cover*.py
+make_shots.py
+build_demo.py
+
+# macOS / Python
+.DS_Store
+__pycache__/
+*.pyc
