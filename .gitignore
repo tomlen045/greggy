@@ -19,6 +19,7 @@ _final_verify.py
 gitee_public_verify.py
 verify_cdn.py
 selfcheck_article.py
+anon_verify.json
 publish-both.sh
 make_cover*.py
 make_shots.py
