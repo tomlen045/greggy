@@ -22,6 +22,8 @@ selfcheck_article.py
 anon_verify.json
 publish-both.sh
 make_cover*.py
+gen_cover_wechat.py
+cards/
 make_shots.py
 build_demo.py
 
